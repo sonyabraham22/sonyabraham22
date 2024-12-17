@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sonyabraham22
-- 👀 I’m interested in coding, electronics
+- 👀 I’m interested in coding, electronics, cloud computing, AI
 - 🌱 I’m currently learning coding for arduino
 - 💞️ I’m looking to collaborate on many things
 - 📫 How to reach me - email sonyabraham22@yahoo.com
